@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  color: darkgreen;
+  font-weight: bold;
+  text-align: center;
+}
+.boxes {
+   font-size: 0;
+ }
+
+ .Box {
+   border: 1px solid black;
+   height: 200px;
+   width: 25%;
+   display: inline-block;
+   font-size: 1rem;
+   text-align: center;
+   padding: 90px;
+ }
+
+ .red {
+ 	background-color: red;
+ }
+ .green{
+ 	background-color: green;
+ }
+  .blue {
+ 	background-color: blue;
+ }
+  .yellow {
+ 	background-color: yellow;
+ }
